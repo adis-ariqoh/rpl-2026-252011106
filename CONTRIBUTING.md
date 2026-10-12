@@ -55,7 +55,7 @@ Pastikan PR Anda:
 
 ## Melaporkan masalah
 
-Temukan kesalahan atau punya saran? Buka **Issue** dengan judul jelas dan sertakan langkah/lokasi yang bermasalah. Jika menyangkut **keamanan atau data sensitif**, jangan dipublikasikan di Issue; hubungi saya secara pribadi.
+Temukan kesalahan atau punya saran? Buka **Issue** dengan judul jelas dan sertakan langkah/lokasi yang bermasalah. Jika menyangkut **keamanan atau data sensitif**, jangan dipublikasikan di Issue.
 
 ## Etika dan lisensi
 
