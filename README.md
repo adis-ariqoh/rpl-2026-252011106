@@ -5,10 +5,10 @@ Semester Ganjil 2026/2027 · Teknik Informatika · Institut Teknologi dan Bisnis
 
 | | |
 |---|---|
-| **Nama** | <Adis Ariqoh> |
-| **NIM** | <252011106> |
-| **Kelas** | <C1> |
-| **Dosen pengampu** | <Nama Dosen> |
+| **Nama** | Adis Ariqoh |
+| **NIM** | 252011106 |
+| **Kelas** | C1 |
+| **Dosen pengampu** | Dr. Fadhli Almu'iini Ahda, S.Kom., M.Kom |
 
 ## Tujuan belajar RPL saya
 

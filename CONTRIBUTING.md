@@ -52,21 +52,10 @@ Pastikan PR Anda:
 - **fokus pada satu tujuan** dan ukurannya kecil agar mudah di-review;
 - tidak memuat data pribadi, password, token, atau berkas besar yang tidak perlu.
 
-Checklist sebelum mengirim PR:
-- [ ] Branch dibuat dari `main` terbaru
-- [ ] Pesan commit mengikuti format
-- [ ] Dokumentasi terkait sudah diperbarui
-- [ ] Tidak ada data pribadi atau rahasia yang ikut ter-commit
-
-## Proses review
-
-- Saya berusaha meninjau PR dalam **2 hari kerja**.
-- Masukan akan diberikan dengan sopan dan spesifik. Mohon tanggapi dengan sikap yang sama.
-- PR di-*merge* setelah disetujui. Saya bisa menolak PR yang tidak sesuai tujuan repository, dengan disertai alasan.
 
 ## Melaporkan masalah
 
-Temukan kesalahan atau punya saran? Buka **Issue** dengan judul jelas dan sertakan langkah/lokasi yang bermasalah. Jika menyangkut **keamanan atau data sensitif**, jangan dipublikasikan di Issue; hubungi saya secara pribadi.
+Temukan kesalahan atau punya saran? Buka **Issue** dengan judul jelas dan sertakan langkah/lokasi yang bermasalah. Jika menyangkut **keamanan atau data sensitif**, jangan dipublikasikan di Issue.
 
 ## Etika dan lisensi
 
